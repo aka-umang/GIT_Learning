@@ -9,3 +9,6 @@ console.log(footer);
 
 const payment="payment added";
 console.log(payment);
+
+const upi="upi added";
+console.log(upi);
