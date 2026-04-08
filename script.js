@@ -12,3 +12,6 @@ console.log(payment);
 
 const upi="upi added";
 console.log(upi);
+
+const nav="navigation added";
+console.log(nav);
