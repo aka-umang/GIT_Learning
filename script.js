@@ -15,3 +15,6 @@ console.log(upi);
 
 const nav="navigation added";
 console.log(nav);
+
+const bugKill="bug fixed";
+console.log(bugKill);
